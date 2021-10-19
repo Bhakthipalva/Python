@@ -1,5 +1,5 @@
 # Python
-/*A value is one of the basic things a program works with, like a letter or a number.
+A value is one of the basic things a program works with, like a letter or a number.
 The values we have seen so far are 1, 2, and “Hello, World!”
 These values belong to different types: 2 is an integer, and “Hello, World!” is a
 string, so called because it contains a “string” of letters. You (and the interpreter)
@@ -31,4 +31,4 @@ is legal:
 1 0 0
 Well, that’s not what we expected at all! Python interprets 1,000,000 as a commaseparated sequence of integers, which it prints with spaces between.
 This is the first example we have seen of a semantic error: the code runs without
-producing an error message, but it doesn’t do the “right” thing.*/
+producing an error message, but it doesn’t do the “right” thing.
